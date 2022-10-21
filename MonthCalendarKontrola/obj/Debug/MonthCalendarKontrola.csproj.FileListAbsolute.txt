@@ -1,0 +1,11 @@
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\bin\Debug\MonthCalendarKontrola.exe.config
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\bin\Debug\MonthCalendarKontrola.exe
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\bin\Debug\MonthCalendarKontrola.pdb
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.Properties.Resources.resources
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.GenerateResource.cache
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.exe
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.pdb
+C:\Users\linar\Documents\programiranje\New folder\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\monthkalendar.Form1.resources
